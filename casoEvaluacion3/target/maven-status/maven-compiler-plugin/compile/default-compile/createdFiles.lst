@@ -1,0 +1,9 @@
+servicio\AsistenteServiceImp.class
+datos\AsistenteDAOimp.class
+cl\inacap\casoEvaluacion3\dto\Asistente.class
+cl\inacap\casoEvaluacion3\JAXRSConfiguration.class
+datos\AsistentesDAO.class
+servicio\AsistenteService.class
+cl\inacap\casoEvaluacion3\resources\JavaEE8Resource.class
+web\ResumenAsistenteController.class
+web\AgregarAsistenteController.class
